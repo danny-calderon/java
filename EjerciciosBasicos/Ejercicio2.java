@@ -1,5 +1,5 @@
 package EjerciciosBasicos;
-// Pau gra <3
+
 public class Ejercicio2 {
     public static void main(String[] args) {
         double a=8.0;

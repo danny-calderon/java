@@ -1,4 +1,4 @@
-// Pau Gradoli <3
+
 import java.util.Scanner;
 
 public class Ejercicio2 {

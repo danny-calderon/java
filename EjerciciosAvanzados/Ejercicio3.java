@@ -1,4 +1,4 @@
-// Pau gra <3
+
 public class Ejercicio3 {
     public static void main(String[] args) {
         double a= 1;
